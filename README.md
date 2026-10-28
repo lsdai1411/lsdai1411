@@ -16,7 +16,6 @@
   <a href="mailto:lesydai.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" /></a>
   <a href="https://github.com/lsdai1411"><img src="https://img.shields.io/badge/GITHUB-LSDAI1411-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" /></a>
   <a href="https://www.facebook.com/Isdai1411"><img src="https://img.shields.io/badge/FACEBOOK-LÊ%20SỸ%20ĐẠI-000000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=555555" /></a>
-  <a href="tel:0328326666"><img src="https://img.shields.io/badge/HOTLINE-032.832.6666-000000?style=for-the-badge&logo=phone&logoColor=white&labelColor=555555" /></a>
 </p>
 
 <p align="center">
