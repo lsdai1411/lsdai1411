@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lesydai.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2D2D" /></a>
-  <a href="https://github.com/lsdai1411"><img src="https://img.shields.io/badge/GITHUB-LSDAI1411-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D" /></a>
-  <a href="https://www.facebook.com/Isdai1411"><img src="https://img.shields.io/badge/FACEBOOK-%20SỸ%20ĐẠI-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2D2D2D" /></a>
+  <a href="https://www.facebook.com/lsdai1411"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/lsdai1411"><img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:lesydai.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/cryptic404x"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://zalo.me/0328326666"><img src="https://img.shields.io/badge/ZALO-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
 </p>
 
 ```js
