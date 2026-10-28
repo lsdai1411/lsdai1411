@@ -39,11 +39,6 @@ const dai = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lsdai1411&label=Profile%20views&color=7F5AF0&labelColor=2D2D2D&style=flat" />
-  <img src="https://img.shields.io/github/followers/lsdai1411?label=Followers&logo=github&color=2CB1FF&labelColor=2D2D2D&style=flat" />
-</p>
-
 <div align="center">
 
 ```bash
@@ -51,7 +46,8 @@ $ echo "Thanks for stopping by" && exit 0
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Code%20%26%20Coffee-7c5cf0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-2eb0ff?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lsdai1411&label=PROFILE+VIEWS&color=0e75c1&labelColor=555555&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/lsdai1411?label=FOLLOWERS&logo=github&logoColor=white&color=0e75c1&labelColor=555555&style=for-the-badge" />
 </p>
+
 </div>
