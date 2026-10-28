@@ -44,6 +44,12 @@ const dai = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2CB1FF,100:7F5AF0&height=30&section=footer" width="100%" />
+```bash
+$ echo "Thanks for stopping by" && exit 0
+```
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Code%20%26%20Coffee-7c5cf0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-2eb0ff?style=for-the-badge" />
+</p>
 </div>
