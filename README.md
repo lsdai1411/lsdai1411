@@ -18,8 +18,8 @@
 
 ```js
 const dai = {
-  role:    "Software Developer",
-  status:  "IT Student",
+  role:    "Full-Stack Developer",
+  status:  "Eat. Sleep. Code. Repeat.",
   passion: "Technology",
   stack:   ["HTML", "CSS", "JavaScript", "Python", "PHP", "MySQL"],
   motto:   () => "Turn ideas into code",
