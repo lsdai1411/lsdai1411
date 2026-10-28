@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header" width="100%" />
-
-</div>
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Lê Sỹ Đại - Software Developer" />
+</p>
 
 <h1 align="center">Hi there, I'm Đại 👋</h1>
 
@@ -22,9 +20,3 @@
   <img src="https://komarev.com/ghpvc/?username=lsdai1411&label=Profile%20views&color=000000&style=flat" />
   <img src="https://img.shields.io/github/followers/lsdai1411?label=Followers&logo=github&color=000000&labelColor=555555&style=flat" />
 </p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer" width="100%" />
-
-</div>
