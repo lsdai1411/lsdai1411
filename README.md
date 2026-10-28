@@ -4,7 +4,7 @@
 
 <h1 align="center">&lt;Hi there, I'm Đại /&gt;</h1>
 
-<h3 align="center">Software Developer · IT Student · Technology Enthusiast</h3>
+<h3 align="center">Software Developer · Technology Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=560&lines=%3E+Turn+ideas+into+code;%3E+Learning+something+new+every+day;%3E+Building+things+that+work" alt="Typing SVG" />
